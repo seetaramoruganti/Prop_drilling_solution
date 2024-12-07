@@ -34,6 +34,18 @@ Elegant Heritage is a sleek and responsive e-commerce application designed to sh
 
 ## Technical Concepts
 
+## Screenshots
+
+### Homepage
+
+![Homepage](./screenshots/homepage.png)
+
+### Shopping Cart
+
+![Shopping Cart](./screenshots/shopping_cart.png)
+
+---
+
 ### State Management with React Context
 
 - The application uses `React.createContext` to set up a global state provider, which wraps around the application.
