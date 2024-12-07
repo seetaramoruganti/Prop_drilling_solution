@@ -1,4 +1,4 @@
-import {} from "react";
+import { use, useContext } from "react";
 
 export default function Cart({ items, onUpdateItemQuantity }) {
   const totalPrice = items.reduce(
