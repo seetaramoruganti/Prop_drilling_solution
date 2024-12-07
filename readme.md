@@ -2,6 +2,18 @@
 
 Elegant Heritage is a sleek and responsive e-commerce application designed to showcase a curated selection of vintage and modern clothing styles. The app is built using **React.js** and leverages **React Context API** and the **useContext Hook** to manage state efficiently, minimizing complexity and avoiding prop drilling.
 
+## Screenshots
+
+### Homepage
+
+![Homepage](./screenshots/homepage.png)
+
+### Shopping Cart
+
+![Shopping Cart](./screenshots/shopping_cart.png)
+
+---
+
 ## Features
 
 ### Product Catalog
@@ -33,18 +45,6 @@ Elegant Heritage is a sleek and responsive e-commerce application designed to sh
 4. **Total Calculation**: The application dynamically calculates the total price based on selected items and their quantities.
 
 ## Technical Concepts
-
-## Screenshots
-
-### Homepage
-
-![Homepage](./screenshots/homepage.png)
-
-### Shopping Cart
-
-![Shopping Cart](./screenshots/shopping_cart.png)
-
----
 
 ### State Management with React Context
 
