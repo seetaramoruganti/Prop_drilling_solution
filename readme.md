@@ -52,6 +52,6 @@ Elegant Heritage is a sleek and responsive e-commerce application designed to sh
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/elegant-heritage.git
-   cd elegant-heritage
+   git clone https://github.com/seetaramoruganti/Prop_drilling_solution.git
+   cd Prop_drilling_solution
    ```
